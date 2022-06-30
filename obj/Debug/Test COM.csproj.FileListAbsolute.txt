@@ -1,0 +1,11 @@
+C:\Syazwani\COM RS485\Test COM\obj\Debug\Test COM.csproj.AssemblyReference.cache
+C:\Syazwani\COM RS485\Test COM\obj\Debug\Test COM.csproj.SuggestedBindingRedirects.cache
+C:\Syazwani\COM RS485\Test COM\obj\Debug\Test_COM.Form1.resources
+C:\Syazwani\COM RS485\Test COM\obj\Debug\Test_COM.Properties.Resources.resources
+C:\Syazwani\COM RS485\Test COM\obj\Debug\Test COM.csproj.GenerateResource.cache
+C:\Syazwani\COM RS485\Test COM\obj\Debug\Test COM.csproj.CoreCompileInputs.cache
+C:\Syazwani\COM RS485\Test COM\bin\Debug\Test COM.exe.config
+C:\Syazwani\COM RS485\Test COM\bin\Debug\Test COM.exe
+C:\Syazwani\COM RS485\Test COM\bin\Debug\Test COM.pdb
+C:\Syazwani\COM RS485\Test COM\obj\Debug\Test COM.exe
+C:\Syazwani\COM RS485\Test COM\obj\Debug\Test COM.pdb

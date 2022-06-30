@@ -1,0 +1,23 @@
+C:\Syazwani\COM RS485\Test COM\obj\Debug\Test_COM.Form1.resources
+C:\Syazwani\COM RS485\Test COM\obj\Debug\Test_COM.Properties.Resources.resources
+C:\Syazwani\COM RS485\Test COM\obj\Debug\COM Reader.csproj.GenerateResource.cache
+C:\Syazwani\COM RS485\Test COM\obj\Debug\COM Reader.csproj.CoreCompileInputs.cache
+C:\Syazwani\COM RS485\Test COM\obj\Debug\Test COM.exe
+C:\Syazwani\COM RS485\Test COM\obj\Debug\Test COM.pdb
+C:\Syazwani\COM RS485\Test COM\bin\Debug\Test COM.exe.config
+C:\Syazwani\COM RS485\Test COM\bin\Debug\Test COM.exe
+C:\Syazwani\COM RS485\Test COM\bin\Debug\Test COM.pdb
+C:\Syazwani\COM RS485\Test COM\bin\Debug\Toolbox.Extensions.dll
+C:\Syazwani\COM RS485\Test COM\bin\Debug\Toolbox.Logger.dll
+C:\Syazwani\COM RS485\Test COM\bin\Debug\Toolbox.Extensions.pdb
+C:\Syazwani\COM RS485\Test COM\bin\Debug\Toolbox.Extensions.xml
+C:\Syazwani\COM RS485\Test COM\bin\Debug\Toolbox.Logger.pdb
+C:\Syazwani\COM RS485\Test COM\bin\Debug\Toolbox.Logger.xml
+C:\Syazwani\COM RS485\Test COM\obj\Debug\COM Reader.csproj.CopyComplete
+C:\Syazwani\COM RS485\Test COM\obj\Debug\COM Reader.csprojAssemblyReference.cache
+C:\Syazwani\COM RS485\Test COM\bin\Debug\Dapper.dll
+C:\Syazwani\COM RS485\Test COM\bin\Debug\log4net.dll
+C:\Syazwani\COM RS485\Test COM\bin\Debug\System.Data.SQLite.dll
+C:\Syazwani\COM RS485\Test COM\bin\Debug\Dapper.xml
+C:\Syazwani\COM RS485\Test COM\bin\Debug\log4net.xml
+C:\Syazwani\COM RS485\Test COM\bin\Debug\System.Data.SQLite.xml
